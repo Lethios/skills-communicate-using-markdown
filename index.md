@@ -11,3 +11,8 @@ Here is another example of some code:
 x = "Hello World!"
 print(x)
 ```
+<br><br>
+## Here are some tasks to be completed:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
